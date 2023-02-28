@@ -1,0 +1,1 @@
+export const base_url='mongodb+srv://MalavikaHaridas:EdrFRaHlT9kMTSxE@cluster0.jyxgtxe.mongodb.net/?retryWrites=true&w=majority'
